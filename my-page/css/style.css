@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: rgba(237, 246, 156, 0.979);
+}
+
+header {
+    background-color: rgb(79, 81, 175);
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+.columns{
+    display: flex;
+    background-color: bisque;
+}
+.column{
+    margin: 5px;
+    color:rgb(30, 97, 141);
+}
+
+.subheading {
+    border-bottom: 5px black solid;
+}

@@ -1,0 +1,10 @@
+Home
+
+info
+My name is Oleksii Kravtsov, but I prefer to be called Alex
+
+my skills
+I have experience working with Java, C# and Python.
+I am currently learning HTML, CSS and JavaScript
+my interests
+I enjoy playing on piano, talking with other people and programming. 
