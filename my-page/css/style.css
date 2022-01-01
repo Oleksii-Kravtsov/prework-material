@@ -1,24 +1,60 @@
 body {
     margin: 0;
-    background-color: rgba(237, 246, 156, 0.979);
+    background-color: rgba(101, 235, 206, 0.979);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
 header {
     background-color: rgb(79, 81, 175);
     text-align: center;
-    color: white;
-    padding: 15px;
+    padding: 10px;
+    width: 640px;
+    margin: 5px;
+    border: black 3px solid;
 }
 
+main {
+    width: 675px;
+}
 .columns{
+    
     display: flex;
-    background-color: bisque;
+    margin: 0 5px;
+    padding: 0;
+    
 }
-.column{
-    margin: 5px;
-    color:rgb(30, 97, 141);
+
+.text-column {
+    border: 3px black solid;
+    margin-left: 5px;
+    color: white;
+    background-color: rgb(79, 81, 175);
 }
+
 
 .subheading {
-    border-bottom: 5px black solid;
+    text-align: center;
+    margin: 0;
+    border-bottom: 2px black solid;
 }
+
+.my-photo {
+    width: 300px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border: 3px black solid;
+}
+
+.info-text {
+    margin: 5px 5px;
+}
+
+.text-block {
+    border: 3px black solid;
+    margin: 5px;
+    background-color: rgb(79, 81, 175);
+    padding-bottom: 50px;
+}
+
+
